@@ -1,4 +1,4 @@
-// Script by Aju
+// Script by suraj
 // AJU 𝚂𝙸𝚁 | 𝙳𝙾𝙽'𝚃 𝙲𝙷𝙰𝙽𝙶𝙴 𝙲𝚁𝙴𝙳𝙸𝚃𝚂🙂
 // ©Ajuser Bot 
 const {
@@ -134,8 +134,8 @@ numbernye = '0'
 autoketik = false;
 prefixStatus = true;
 targetpc = "917994873071"; 
-owner = "917994873071"; 
-fakeyoi = "AJU"; 
+owner = "918872485052; 
+fakeyoi = "Suraj"; 
 HunterApi = "Ikyy69", 
 xchillds = 'XChillDs' 
 hardi = 'hardianto', 
